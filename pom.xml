@@ -19,7 +19,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>odtReplace.odfToolkit</mainClass>
+            <mainClass>OdfToolkit</mainClass>
           </manifest>
         </archive>
         <descriptorRefs>
